@@ -1,10 +1,10 @@
 
 
-[PALVELUN_NIMI] on avoin, julkinen ja maksuton verkkopalvelu, jonka toteuttajia ovat [KETKÄ]
+[PALVELUN_NIMI] on avoin, julkinen ja maksuton verkkopalvelu, jonka toteuttaja on [KUKA_TAI_MIKÄ].
 
 Palvelun joidenkin osien käyttö edellyttää rekisteröitymistä. Rekisteröityessään palveluun käyttäjä vahvistaa tutustuneensa näihin käyttöehtoihin ja sitoutuu noudattamaan niitä palvelun käytössä.
 
-###Laillinen / maantieteellinen toimintaympäristö
+###Juridinen toimintaympäristö
 
 [PALVELUN_NIMI] palvelimet sijaitsevat [MAA1, MAA2..]. Täten palvelu käyttö tapahtuu Suomen, [MAA1, MAA2..] ja Euroopan Unionin lakien ja viranomaisvalvonnan alaisuudessa.
 
