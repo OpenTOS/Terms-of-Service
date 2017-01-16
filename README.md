@@ -1,6 +1,6 @@
-#OpenToS / The Open TOS Project
+#The OpenTOS Project
 
-The goal of this project and repository is to develop a free and open Terms of Service documents in the Finnish language (and optionally in other languages).
+The goal of this project is to develop a freely usable Terms of Service documents in the Finnish language (and optionally in other languages).
 
 Most open source web applications come with a long and complex Terms of Service template document, that is based on the U.S. legistlation and in english language. In order to fully understand these terms, one must have very high level of competence in english language and on the other hand they are troublesome to translate into foreign languages.
 
