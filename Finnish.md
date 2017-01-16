@@ -34,7 +34,7 @@ Palveluidemme käyttäminen on yksinomaan käyttäjän omalla vastuulla. Tarjoam
 
 Kaiken materiaalin lataaminen tai vastaanottaminen palvelujamme käyttämällä tapahtuu omalla vastuullasi ja harkintasi varassa, ja olet yksin vastuussa niistä tietojärjestelmällesi aiheutuneista vahingoista tai tietojen katoamisesta, joka johtuu materiaalin lataamisesta. Hyväksyt sen, että me emme ole missään vastuussa palvelumme ylläpitämän sisällön tai viestien poistamisesta taikka säilyttämisessä tai välittämisessä ilmenneistä virheistä. Pidätämme oikeuden asettaa rajoituksia käyttöön ja säilyttämiseen yksipuolisesti milloin tahansa, ilmoittamalla tai ilmoittamatta asiasta.
 
-####olmannen osapuolen verkkosivustot ja palvelut
+###Kolmannen osapuolen verkkosivustot ja palvelut
 
 Olet yksin vastuussa käyttämistäsi mistä tahansa kolmannen osapuolen verkkosivuista tai palveluista. Vaikka palvelumme sisältää linkkejä kolmannen osapuolen verkkosivuille ja palveluihin, emme varmenna niitä emmekä ole vastuussa niiden saavutettavuudesta, tarkkuudesta tai niihin liittyvästä sisällöstä, tuotteista tai palveluista (mukaan lukien mutta ei rajoittuen mitkä tahansa virukset tai muita vahinkoa aiheuttavat ominaisuudet), eikä meillä ole mitään velvollisuuksia seurata tällaista kolmannen osapuolen sisältöä. Kolmannen osapuolen verkkosivuilla tai palveluissa sovelletaan niiden omia käyttöehtoja.
 
