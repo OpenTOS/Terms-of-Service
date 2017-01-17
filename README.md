@@ -11,7 +11,7 @@ The idea is that in order to generate any momentum for this project, it needs to
 
 #In Finnish
 
-Tämän projektin tavoite on kehittää ja julkaista vapaasti käytettävissä olevat verkkopalvelun käyttöehdot suomen kielellä (ja mahdollisesti muilla kielillä, jos innokkaita löytyy)
+Tämän projektin tavoite on kehittää ja julkaista vapaasti käytettävissä olevat verkkopalvelun käyttöehtodokumentti, suomen kielellä (ja mahdollisesti muilla kielillä, jos innokkaita löytyy).
 
 Useimman avoimen lähdekoodin verkkosovellusten mukana toimitetaan pitkä ja monimutkainen käyttöehtodokumentti, englanniksi ja yleensä Yhdysvaltojen lainsäädäntöön perustuen. Näiden ymmärtäminen vaatii korkeaa englannin kielen taitoa ja toisaalta ne ovat hyvin haastavia kääntää suomeksi.
 
